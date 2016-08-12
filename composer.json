@@ -1,0 +1,8 @@
+{
+    "name": "allowing/core",
+    "autoload": {
+        "psr-4": {
+            "allowing\\core\\": "src"
+        }
+    }
+}
